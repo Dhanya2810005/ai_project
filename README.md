@@ -1,4 +1,4 @@
-# 🚀 AI Social Media Manager & Post Generator
+# AI Social Media Manager & Post Generator
 
 A full-stack GenAI SaaS application built with **Streamlit, LangChain, and Groq**. This tool goes way beyond a standard wrapper by implementing **Retrieval-Augmented Generation (RAG), Web Scraping, Multi-Agent Prompt Chaining, and Multimodal Text-to-Speech (TTS)** to help creators scale their personal brand.
 
